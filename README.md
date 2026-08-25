@@ -58,7 +58,7 @@
 <td valign="middle" width="58%">
 
 ```yaml
-name:      Mrityunjai Pratap Singh
+name:      Mrityunjai Sachan
 role:      Data Science Student → Data / Business Analyst
 focus:     Analytics · BI dashboards · decision support
 toolbelt:  [Python, SQL, Power BI, Excel, Pandas, Statistics]
